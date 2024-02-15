@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Entregas", "WebApi.Entregas\WebApi.Entregas.csproj", "{5BB2BA1A-F839-47A6-8D88-4180A0019E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dados", "Dados\Dados.csproj", "{6D501786-8332-475B-848A-D19E799529EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB2BA1A-F839-47A6-8D88-4180A0019E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB2BA1A-F839-47A6-8D88-4180A0019E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB2BA1A-F839-47A6-8D88-4180A0019E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB2BA1A-F839-47A6-8D88-4180A0019E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D501786-8332-475B-848A-D19E799529EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D501786-8332-475B-848A-D19E799529EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D501786-8332-475B-848A-D19E799529EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D501786-8332-475B-848A-D19E799529EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47932C6E-A07C-4439-9DA5-682549BC99C3}
+	EndGlobalSection
+EndGlobal
